@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="twodimensionalarrays.TestSimpleTwoDimensionalArray" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-02T19:46:58" hostname="Alexanders-MacBook-Pro.local" time="0.018">
-  <properties/>
-  <testcase name="testSimpleArray()" classname="twodimensionalarrays.TestSimpleTwoDimensionalArray" time="0.018"/>
-  <system-out><![CDATA[SimpleTwoDimensionalArray{stringTwoDArray=[[Ljava.lang.String;@21341078, [Ljava.lang.String;@54cd20ef, [Ljava.lang.String;@71c83f6c, [Ljava.lang.String;@3a96e552, [Ljava.lang.String;@3ba095a8]}
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
